@@ -2,8 +2,8 @@
 
 A simple, single-page digital business card application built with Flutter. This project was created as a first step into mobile app development to learn the fundamentals of the Flutter framework.
 
-![App Screenshot](https://placehold.co/300x600/2B475E/FFFFFF?text=Your+App+Screenshot+Here)
-*Note: Replace the URL above with a screenshot of your actual app!*
+![App Screenshot](https://github.com/Foxasdf/Flutter_busniess_card_project/blob/main/app.png)
+
 
 ---
 
